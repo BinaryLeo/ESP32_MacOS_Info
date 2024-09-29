@@ -34,6 +34,9 @@ The C++ program on the ESP32:
 - WebServer library
 - U8g2 library for OLED display
 
+![137672252-1cd1f805-63fc-47e1-98c5-f1d9968d2539](https://github.com/user-attachments/assets/5c446299-c1bb-4678-9b04-6ab492363d98)
+
+
 ## Setup Instructions
 
 ### macOS System
@@ -135,7 +138,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - [Rust Programming Language](https://www.rust-lang.org/)
 - [Arduino IDE](https://www.arduino.cc/en/software)
-- [Heltec WiFi Kit 32]([https://heltec.org/project/wifi-kit-32/](https://heltec.org/project/wifi-lora-32v2/))
+- [Heltec WiFi Kit 32](https://heltec.org/project/wifi-kit-32/](https://heltec.org/project/wifi-lora-32v2/)
 - [U8g2 Library](https://github.com/olikraus/u8g2)
 ```
 
