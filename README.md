@@ -138,8 +138,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - [Rust Programming Language](https://www.rust-lang.org/)
 - [Arduino IDE](https://www.arduino.cc/en/software)
-- [Heltec WiFi Kit 32](https://heltec.org/project/wifi-kit-32/](https://heltec.org/project/wifi-lora-32v2/)
+- [Heltec WiFi Kit 32](https://heltec.org/project/wifi-lora-32v2)
 - [U8g2 Library](https://github.com/olikraus/u8g2)
 ```
-
 ### Conclusion
