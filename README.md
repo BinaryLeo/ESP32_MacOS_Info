@@ -3,7 +3,8 @@
 This project monitors the storage usage on a macOS system and displays the information on a Heltec ESP32 OLED board. The project consists of two main components: a Rust program running on the macOS system and a C++ program running on the ESP32.
 
 
-![WhatsApp Image 2024-09-29 at 11 49 06](https://github.com/user-attachments/assets/14671ca0-f3f8-4aef-aed1-e23ceebbcef5)
+
+![WhatsApp Image 2024-09-29 at 11 49 06](https://github.com/user-attachments/assets/93230ee0-9ffc-4bc3-b5d3-6fde05b98d45)
 
 ![WhatsApp Image 2024-09-29 at 11 48 53](https://github.com/user-attachments/assets/8be56feb-33d1-43c3-b101-0f2a012f3014)
 
